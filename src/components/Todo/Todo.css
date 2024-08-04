@@ -1,0 +1,9 @@
+.todo__item {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.todo__item--completed {
+  color: green;
+  font-weight: 700;
+}
